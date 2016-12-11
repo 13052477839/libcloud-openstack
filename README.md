@@ -1,7 +1,7 @@
 # libcloud-openstack
 
 
-###This script is mainly described Libcloud operate Openstack. Mainly includes the following content ：
+###This script is mainly described Libcloud operate Openstack. Mainly includes the following content.
 
 - Image
 - volume
@@ -11,6 +11,5 @@
 - Network
 
 
-——————————————————————————————————————————
 
 Just some basic create, delete, modify, and query.
